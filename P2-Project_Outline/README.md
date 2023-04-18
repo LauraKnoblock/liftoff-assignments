@@ -1,18 +1,34 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
+Overview: 
+A database creation and management application that allows the user to create customizable inventories with search and organizational capabilities. In order to access the application, users will create individual profiles that are protected by authentication and can offer differing levels of authorization.
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
+Features:
+Login Page
+Login with Username and Password fields
+Social Media login
+Forgot password option*
+Add new user button
+New User page/form
+ -- fields for basic contact info (name, email), set password
+Dashboard after login
+list of current inventory lists and links/buttons to access them (when clicked, new page with CRUD)
+button for creating new database
+basic add form includes inventory Title, Name of item, Type, Quantity, option to add new 
+Authentication 
+Authorization
 
-## Submission Instructions
+Technologies:
+Java
+JavaScript
+React
+Bootstrap
+Hibernate
+SQL
+ESLint
+Jest
+Spellcheck
 
-### Overview
-Include overview here
-### Features
-Include Features here
-### Technologies
-Include Technologies here
-### What I'll Have to Learn
-Include what you will need to learn here
-### Project Tracker
-Link to your Trello board here
+What you’ll have to learn: 
+react, eslint, authentication, authorization
+
+Project Tracker:
+https://trello.com/b/Ih9SNY9R/kanban-template
